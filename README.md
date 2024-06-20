@@ -7,7 +7,7 @@ Crafting the Resolution for the SmartBot Challenge in the Intra-College Tech Cha
 - Bot Movement Arduino.(Arduino takes the data from ESP32 & Controls the Bot)
 - sensAline(Android app uses Computer Vision for line detection)
 
-## The following functions are implemented in the wrapper:
+## The following functions are implemented in the control system:
 
 - Connects to Phone
 - Start Reading the Line using OpenCV
